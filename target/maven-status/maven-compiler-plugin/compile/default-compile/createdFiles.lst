@@ -1,0 +1,7 @@
+main\java\mx\iteso\AudioPlayer.class
+main\java\mx\iteso\Mp4Player.class
+main\java\mx\iteso\VlcPlayer.class
+main\java\mx\iteso\AdapterPatternDemo.class
+main\java\mx\iteso\MediaAdapter.class
+main\java\mx\iteso\Interfaces\MediaPlayer.class
+main\java\mx\iteso\Interfaces\AdvancedMediaPlayer.class
